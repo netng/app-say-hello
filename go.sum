@@ -1,0 +1,6 @@
+github.com/netng/go-say-hello v1.0.0 h1:ICxrJI+XWH3Lroc+aa1i2oIOSxjR5HmlD0Jl6zP+rE8=
+github.com/netng/go-say-hello v1.0.0/go.mod h1:1Psg2bR5B9z2sej3TlVAwLZzQG6AtknhvNCdjFCS12I=
+github.com/netng/go-say-hello v1.0.1 h1:N8Ilw8vrcy2biylhI1MuipcUizvmVVz0/53FtxJP0w0=
+github.com/netng/go-say-hello v1.0.1/go.mod h1:1Psg2bR5B9z2sej3TlVAwLZzQG6AtknhvNCdjFCS12I=
+github.com/netng/go-say-hello/v2 v2.0.1 h1:RNNpQJFAbk//vnVxWFDt5eU9yNXvl2TYKdQuXBNhN0k=
+github.com/netng/go-say-hello/v2 v2.0.1/go.mod h1:K+KMjwSHs8EdcWF0qpIuItSBmN5ojzGxKFDxaLqp2sA=
